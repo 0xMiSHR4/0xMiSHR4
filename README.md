@@ -9,7 +9,7 @@ Email Me 👉 ✉️ **asmyselfanupam2709@gmail.com** For Collaboration/Project 
 - 🤔 **I’m looking for help with:** Building real-world DFIR labs and mastering enterprise-grade incident response workflows
 - 💬 **Let’s Talk About:** DFIR tools, CTF prep, tech workflows, or anything cool you’re exploring in the infosec space  
 - 📫 **Reach Me At:** [asmyselfanupam2709@gmail.com](mailto:asmyselfanupam2709@gmail.com)  
-- 😄 **Also Known As:** M1SHR4 J1 
+- 😄 **Also Known As:** K1RM4DA 
 - ⚡ **Fun Fact:** I’m a huge eSports enthusiast — love following competitive gaming and strategy-based tournaments
 
 ## 🔗 Socials:
