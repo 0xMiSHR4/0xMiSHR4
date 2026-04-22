@@ -1,20 +1,23 @@
+[![](https://komarev.com/ghpvc/?username=0xMiSHR4&icon=2&color=13)](https://visitcount.itsvg.in)
+
 # 💫 Hi 👋, I'm Anupam Mishra
-**A passionate Cyber Security Engineer || DevOps Engineer || Cloud Engineer from India**
+**Instructional Designer | Senior Research Analyst @EduHubSpot | Designing Industry-Aligned Training Courses**
 
 Email Me 👉 ✉️ **asmyselfanupam2709@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **Current Role:** Senior Research Analyst at EduHubSpot
-- 🌱 **I’m currently learning:** In-depth analysis using Autopsy, EnCase, Wireshark, and SIEM tools
-- 👯 **I’m looking to collaborate on:** Capture The Flag (CTF) challenges, DFIR case studies, and security research
-- 🤔 **I’m looking for help with:** Building real-world DFIR labs and mastering enterprise-grade incident response workflows
-- 💬 **Let’s Talk About:** DFIR tools, CTF prep, tech workflows, or anything cool you’re exploring in the infosec space  
-- 📫 **Reach Me At:** [asmyselfanupam2709@gmail.com](mailto:asmyselfanupam2709@gmail.com)  
-- 😄 **Also Known As:** K1RM4DA 
-- ⚡ **Fun Fact:** I’m a huge eSports enthusiast — love following competitive gaming and strategy-based tournaments
+- 🌱 **Currently Working On:** Designing engaging e-learning experiences and industry-aligned courses
+- 🧩 **What I Do:** Design e-learning courses, storyboards, assessments, facilitator guides, and job aids
+- 🛠️ **Tools & Technologies:** Articulate Storyline 360 • Vyond • Adobe Captivate • Camtasia • Microsoft 365 • Canva
+- 🤝 **Looking to Collaborate On:** E-learning projects, instructional design workflows, and training program development
+- 🤔 **Seeking Help With:** Building scalable learning solutions and enhancing enterprise-level instructional design strategies
+- 💬 **Let’s Talk About:** Instructional Design, eLearning tools, learning experience design, and digital education
+- 📫 **Reach Me At:** [asmyselfanupam2709@gmail.com](mailto:asmyselfanupam2709@gmail.com)
+- ⚡ **Fun Fact:** I’m a huge eSports enthusiast — love strategy, competition, and analyzing gameplay dynamics
 
 ## 🔗 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hustler._.since._.2003) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anupam-mishra-2709) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/mishra_anupam) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/0xmishr4) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0xMiSHR4) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@0xMiSHR4) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asmyselfanupam2709@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hustler._.since._.2003) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anupam-mishra-2709) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/mishra_anupam) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/0xmishr4) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0xMiSHR4) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@K1RM4DA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asmyselfanupam2709@gmail.com)
 
 <!-- Snake Game Repo View -->
 
