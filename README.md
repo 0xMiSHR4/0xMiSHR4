@@ -15,10 +15,6 @@ Email Me 👉 ✉️ **asmyselfanupam2709@gmail.com** For Collaboration/Project 
 - 📫 **Reach Me At:** [asmyselfanupam2709@gmail.com](mailto:asmyselfanupam2709@gmail.com)
 - ⚡ **Fun Fact:** I’m a huge eSports enthusiast — love strategy, competition, and analyzing gameplay dynamics
 
-## 🔗 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anupam-mishra-2709) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0xMiSHR4) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asmyselfanupam2709@gmail.com)
-
 <!-- Snake Game Repo View -->
 
 <div align="center">
