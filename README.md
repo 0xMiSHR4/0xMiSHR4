@@ -1,4 +1,4 @@
-[![](https://komarev.com/ghpvc/?username=0xMiSHR4&icon=2&color=13)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xMiSHR4&label=Profile%20views&color=0e75b6&style=flat" alt="0xMiSHR4" /> </p>
 
 # 💫 Hi 👋, I'm Anupam Mishra
 **Instructional Designer | Senior Research Analyst @EduHubSpot | Designing Industry-Aligned Training Courses**
